@@ -104,17 +104,6 @@ Ou, se estiver usando VS Code, basta abrir `RetroLaser.java` e clicar em **Run**
 
 ---
 
-## 📸 Capturas de Tela
-
-> Adicione aqui prints do jogo em execução para ilustrar o README.
-
-```
-<img width="957" height="708" alt="image" src="https://github.com/user-attachments/assets/1c1025dd-9c8a-4aeb-943f-e5a412cfc408" />
-
-```
-
----
-
 ## 👤 Autor
 
 **Michel de Lima**
