@@ -1,6 +1,6 @@
-# 🔫 RetroLaser-Michel
+# 🔫 RetroLaser
 
-Projeto desenvolvido para a disciplina de **Computação Gráfica** do curso de **Engenharia de Software / Ciência da Computação** — UEPG.
+Projeto desenvolvido para a disciplina de **Computação Gráfica** do curso de **Engenharia de Software** — UEPG.
 
 O projeto consiste em um **jogo 2D estilo retrô** implementado em **Java com Java2D**, explorando conceitos fundamentais de computação gráfica como rasterização de primitivas, transformações geométricas, animação, tipografia vetorial e composição de cenas.
 
